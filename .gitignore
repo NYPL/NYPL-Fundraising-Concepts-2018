@@ -1,0 +1,10 @@
+
+
+# Ignore sketch files
+*.sketch
+
+# Ignore the static images files too
+*.psd
+*.png
+*.jpg
+*.jpeg
