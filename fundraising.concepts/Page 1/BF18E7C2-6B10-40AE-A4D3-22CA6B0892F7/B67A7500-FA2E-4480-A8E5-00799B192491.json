@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "F00B104C-2CDC-455B-9BB7-2074523B598D",
+  "do_objectID": "B67A7500-FA2E-4480-A8E5-00799B192491",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 946,
-    "width": 431,
-    "x": 642,
-    "y": 334
+    "height": 1041,
+    "width": 896,
+    "x": 906,
+    "y": 74
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/d1a2f89761f557aeba0183eac81b4fd616c526b7",
+    "_ref": "images/f67722c32174b4269f57f77283a391e5b121912e",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "bna.preload",
+  "name": "lpa.medium",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

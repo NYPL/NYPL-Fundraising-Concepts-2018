@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "28B3B4F9-569F-4EAE-A1B1-339D544813FB",
+  "do_objectID": "55D8E4E8-5CDD-4589-A120-4B8CBCB0628A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2276,
-    "width": 3053,
-    "x": -69,
-    "y": 1368
+    "height": 1896,
+    "width": 2024,
+    "x": 3244,
+    "y": -1040
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -31,15 +31,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      2897,
-      3311,
-      3418,
-      4732,
-      3699,
-      158,
-      533,
-      2624,
-      1309
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -48,19 +39,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "bitmap",
-      "id": "F00B104C-2CDC-455B-9BB7-2074523B598D"
-    },
-    {
-      "class": "bitmap",
-      "id": "1994AE1D-F38A-4532-AA4F-00A282970AA9"
+      "id": "8891EC6B-9E08-4C80-959B-FA4F2C8C5E39"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "medium / LPA 2",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,13 +63,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      1020,
-      892,
-      1463,
-      1368,
-      334,
-      692,
-      462
     ]
   }
 }

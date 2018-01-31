@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "0B38C6C0-48D9-4075-9EA0-A045862C6E75",
+  "do_objectID": "681BB446-6608-4D72-B4C4-4F0AC13832B7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 935,
-    "width": 433,
-    "x": 488,
-    "y": 2352
+    "height": 659,
+    "width": 388,
+    "x": 500,
+    "y": 131
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/85c5d94327aa38bafe05ab56b05a3fc395e2311d",
+    "_ref": "images/a3518d5e9f87227a95144e898ed0b631135a20a7",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "bna.postload",
+  "name": "schomburg.mobile.3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

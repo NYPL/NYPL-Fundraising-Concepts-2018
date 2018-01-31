@@ -38,6 +38,14 @@
     },
     {
       "class": "artboard",
+      "id": "BE16E9BA-F5F4-4B01-B5CA-7C2434AA3011"
+    },
+    {
+      "class": "artboard",
+      "id": "BF18E7C2-6B10-40AE-A4D3-22CA6B0892F7"
+    },
+    {
+      "class": "artboard",
       "id": "9CAF9142-CB52-4FAB-A23A-23FE7E5CEBD9"
     },
     {
@@ -59,6 +67,10 @@
     {
       "class": "artboard",
       "id": "9B2B8316-B88A-419B-8687-A1222AC7A796"
+    },
+    {
+      "class": "artboard",
+      "id": "55D8E4E8-5CDD-4589-A120-4B8CBCB0628A"
     }
   ],
   "name": "Page 1",
