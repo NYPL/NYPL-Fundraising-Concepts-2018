@@ -16,12 +16,18 @@ The current implementation is problematic and are misaligned w/ the over Library
 
 ## Problems:
 
-Lightboxes are annoying, disruptive and cause accessibility issues that are complex and difficult to fix.
+Lightboxes are annoying, disruptive and cause accessibility issues that are complex and difficult to surmount.
 Multiplicty of donate buttons causes a kind of blindness.
-Is ther parity & continuity from nypl to convio systems?
-
+    * see Schomburg & LPA Location pages
+    * 
+Is there parity & continuity from NYPL to Convio systems?
+    * Probably not, so work in that system will probably need to be done
 
 ## Pages to add to mix:
 
 Blogs
 best books pages
+
+## Additional opportunities
+
+Interstitials in podcasts, and as trailers on other audio recordings.
