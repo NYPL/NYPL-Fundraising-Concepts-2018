@@ -21,12 +21,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 5296,
-    "width": 11844,
-    "x": -8,
+    "width": 7384,
+    "x": 4452,
     "y": -1024
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,22 +52,6 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "22159429-FE18-47BC-9052-5FAF41912EAC"
-    },
-    {
-      "class": "bitmap",
-      "id": "0E42D024-6C95-4050-9B74-455DF446E499"
-    },
-    {
-      "class": "bitmap",
-      "id": "D32C0104-8522-4895-B157-6D8D07BA1B99"
-    },
-    {
-      "class": "bitmap",
-      "id": "F04810E3-3C0B-4D9B-9B1B-3241752BA0B3"
-    },
-    {
-      "class": "bitmap",
       "id": "5A25201C-D95B-46AC-BBA3-53DB1409912B"
     },
     {
@@ -85,18 +69,6 @@
     {
       "class": "bitmap",
       "id": "0B38C6C0-48D9-4075-9EA0-A045862C6E75"
-    },
-    {
-      "class": "group",
-      "id": "76EC47A2-E1E2-4AF8-9A43-8A5C34FB3EE7"
-    },
-    {
-      "class": "group",
-      "id": "7DD0E118-5B13-4351-9E72-DDB251E17C19"
-    },
-    {
-      "class": "text",
-      "id": "04EC0A47-9A27-44FC-B051-22CA49A2BBD0"
     }
   ],
   "name": "Artboard",
