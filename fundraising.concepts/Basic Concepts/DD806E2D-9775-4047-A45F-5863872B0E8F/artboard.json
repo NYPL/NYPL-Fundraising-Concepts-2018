@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -25,13 +34,13 @@
     "x": -69,
     "y": -2558
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      449,
+      450,
       825
     ]
   },
@@ -50,6 +59,10 @@
     {
       "class": "shapeGroup",
       "id": "B184DD42-586A-41E2-87BA-30DE881C811D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FED97666-A7FE-4657-A148-2F10CF78E6EA"
     },
     {
       "class": "text",

@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "3110C3C0-5102-4264-B504-0ADFE4D62A8D",
+  "do_objectID": "6E06E3F1-4D52-412C-831F-E431D66BFE75",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 36,
     "width": 75,
-    "x": 210,
-    "y": 30
+    "x": 224,
+    "y": 15
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -33,13 +33,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "094FA741-20FF-40AE-8276-C04F503553C2",
       "overrideName": "5F67FA8A-F534-46E0-AC7E-A92C89B1259F_symbolID",
       "value": "8BB88647-77D6-4633-9A52-59B20C306F8D"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A3D58A07-EFC7-4D5F-8648-731085B03ABC",
       "overrideName": "4D7D9E18-3EB2-44F8-9EB7-8139CE146E20_stringValue",
       "value": "I will!"
     }

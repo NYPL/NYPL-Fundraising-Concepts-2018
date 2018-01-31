@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "3110C3C0-5102-4264-B504-0ADFE4D62A8D",
+  "do_objectID": "89861215-C53C-422B-8357-AA60F9DA32EE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 75,
-    "x": 210,
-    "y": 30
+    "height": 89,
+    "width": 361,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,27 +28,11 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "buttons / main filter control",
+  "name": "basic colors / Library blue #1b7fa7",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "094FA741-20FF-40AE-8276-C04F503553C2",
-      "overrideName": "5F67FA8A-F534-46E0-AC7E-A92C89B1259F_symbolID",
-      "value": "8BB88647-77D6-4633-9A52-59B20C306F8D"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "A3D58A07-EFC7-4D5F-8648-731085B03ABC",
-      "overrideName": "4D7D9E18-3EB2-44F8-9EB7-8139CE146E20_stringValue",
-      "value": "I will!"
-    }
   ],
   "overrides": {
-    "4D7D9E18-3EB2-44F8-9EB7-8139CE146E20": "I will!",
-    "5F67FA8A-F534-46E0-AC7E-A92C89B1259F": {
-      "symbolID": "8BB88647-77D6-4633-9A52-59B20C306F8D"
-    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -61,6 +45,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "382E893F-7369-4D22-BE0B-D06777962A63",
+  "symbolID": "20D553DA-A7B6-462B-A9F8-6DB67F0E5536",
   "verticalSpacing": 0
 }

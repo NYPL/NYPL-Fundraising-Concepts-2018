@@ -31,8 +31,17 @@
   "name": "icon / play",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F7BA5D1-D229-4248-8CBD-E33BC3A6AE4A",
+      "overrideName": "96DF3213-E522-412B-A742-AB7E4DBEA247_symbolID",
+      "value": "B96AE56E-9F6C-413B-8E18-B12776188318"
+    }
   ],
   "overrides": {
+    "96DF3213-E522-412B-A742-AB7E4DBEA247": {
+      "symbolID": "B96AE56E-9F6C-413B-8E18-B12776188318"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

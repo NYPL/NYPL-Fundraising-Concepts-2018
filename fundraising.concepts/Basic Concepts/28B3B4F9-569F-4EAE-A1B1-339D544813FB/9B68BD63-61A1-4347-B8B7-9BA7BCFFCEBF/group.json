@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "AFB14134-6130-4533-BAC6-66EE6621DC67",
+  "do_objectID": "9B68BD63-61A1-4347-B8B7-9BA7BCFFCEBF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 89,
-    "width": 361,
-    "x": 511,
-    "y": 762
+    "height": 169,
+    "width": 376,
+    "x": 1345,
+    "y": 923
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,31 +26,19 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "343D989E-E834-4DD9-97A3-192FDE78B55E"
+      "class": "symbolInstance",
+      "id": "1A6E4009-7D9A-4044-8B18-2B44F67A5FC5"
+    },
+    {
+      "class": "text",
+      "id": "9D642412-653E-48E0-99A1-1FE7B8814FB5"
     },
     {
       "class": "symbolInstance",
-      "id": "89861215-C53C-422B-8357-AA60F9DA32EE"
-    },
-    {
-      "class": "text",
-      "id": "58DB0C0D-742D-4241-A84F-6ECF23C752F6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3110C3C0-5102-4264-B504-0ADFE4D62A8D"
-    },
-    {
-      "class": "text",
-      "id": "F10ACAD4-12C6-41AD-A660-0790C223F9E6"
-    },
-    {
-      "class": "text",
-      "id": "AC716D7F-896A-4901-9B2B-64605BE6299A"
+      "id": "CC5CFC75-6DB3-42EB-BCEB-554B75764AA1"
     }
   ],
-  "name": "meerkat",
+  "name": "Basic Meerkat Copy",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 128,
+    "height": 129,
     "width": 414,
     "x": 456,
     "y": 908
@@ -23,11 +23,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "440E5FD0-E882-471F-9FDF-15E32CFD2D4D"
+      "class": "symbolInstance",
+      "id": "5DAC7E5A-6D37-4E7B-9951-E36AFABA6A6B"
     },
     {
       "class": "symbolInstance",

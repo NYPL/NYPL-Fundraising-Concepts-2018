@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -25,8 +34,8 @@
     "x": 7984,
     "y": -2558
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,12 +55,12 @@
       "id": "681BB446-6608-4D72-B4C4-4F0AC13832B7"
     },
     {
-      "class": "group",
-      "id": "DB9AD79E-1CF4-4189-87B5-874E9BE67A01"
-    },
-    {
       "class": "text",
       "id": "221FEDD6-C61A-4791-93FB-FB892CAE5476"
+    },
+    {
+      "class": "group",
+      "id": "B5C81078-57AA-4059-98DE-B8A67A117284"
     }
   ],
   "name": "small / schomburg device 2",

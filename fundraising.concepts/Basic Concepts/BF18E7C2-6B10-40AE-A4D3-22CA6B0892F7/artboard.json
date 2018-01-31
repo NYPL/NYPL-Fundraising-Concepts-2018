@@ -39,15 +39,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",
       "id": "B67A7500-FA2E-4480-A8E5-00799B192491"
-    },
-    {
-      "class": "text",
-      "id": "EEAA9D0D-F310-4BF6-A668-09CE134A645B"
     },
     {
       "class": "group",
@@ -56,6 +52,10 @@
     {
       "class": "text",
       "id": "2B12EF9D-82A9-4290-80CD-E357023F8026"
+    },
+    {
+      "class": "text",
+      "id": "F4EC4A71-15F3-4402-8ED3-3D7DC685E683"
     }
   ],
   "name": "medium / LPA",
