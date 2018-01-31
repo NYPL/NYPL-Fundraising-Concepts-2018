@@ -44,9 +44,13 @@
     {
       "class": "text",
       "id": "E3248131-A6FC-4417-BD8D-7EBBFB81C268"
+    },
+    {
+      "class": "text",
+      "id": "367CC032-0D97-4FBC-A502-C3DD01891FDB"
     }
   ],
-  "name": "Browse New Arrivals",
+  "name": "general notess",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
