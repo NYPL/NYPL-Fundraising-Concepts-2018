@@ -50,7 +50,8 @@
       2624,
       1309,
       1345,
-      1722
+      1722,
+      1265
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -76,6 +77,10 @@
     {
       "class": "text",
       "id": "4C8AD9F3-E281-4FE4-93FD-4F6C0F7B3141"
+    },
+    {
+      "class": "text",
+      "id": "33C8D7DE-F81B-43BD-8FFD-16914141BE44"
     },
     {
       "class": "text",
@@ -109,7 +114,8 @@
       1368,
       334,
       692,
-      462
+      462,
+      -1401
     ]
   }
 }
