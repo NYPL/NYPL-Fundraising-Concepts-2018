@@ -29,10 +29,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1896,
-    "width": 2024,
+    "height": 1400,
+    "width": 2100,
     "x": 3244,
-    "y": -1040
+    "y": -997
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,

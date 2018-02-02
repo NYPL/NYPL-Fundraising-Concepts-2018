@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1400,
     "width": 772,
-    "x": -885,
+    "x": -1046,
     "y": -2558
   },
   "hasBackgroundColor": false,
@@ -63,6 +63,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      206
     ]
   }
 }

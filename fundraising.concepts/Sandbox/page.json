@@ -32,6 +32,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "BE16E9BA-F5F4-4B01-B5CA-7C2434AA3011"
+    },
+    {
+      "class": "artboard",
+      "id": "9A515091-1CA1-47D9-AE7A-C4B03A1C6E55"
+    }
   ],
   "name": "Sandbox",
   "nameIsFixed": true,

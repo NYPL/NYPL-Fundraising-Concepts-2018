@@ -29,13 +29,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1896,
-    "width": 2122,
+    "height": 1400,
+    "width": 2100,
     "x": 5491,
-    "y": -1040
+    "y": -997
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -91,7 +91,7 @@
       "id": "9B68BD63-61A1-4347-B8B7-9BA7BCFFCEBF"
     }
   ],
-  "name": "Browse New Arrivals",
+  "name": "small / Browse New Arrivals",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
