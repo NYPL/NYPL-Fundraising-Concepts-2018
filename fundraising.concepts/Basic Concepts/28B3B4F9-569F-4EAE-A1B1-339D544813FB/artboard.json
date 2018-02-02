@@ -35,7 +35,7 @@
     "y": -997
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -89,6 +89,10 @@
     {
       "class": "group",
       "id": "9B68BD63-61A1-4347-B8B7-9BA7BCFFCEBF"
+    },
+    {
+      "class": "bitmap",
+      "id": "B865AD9E-FA9A-4644-9327-EDE05BB5AFDD"
     }
   ],
   "name": "small / Browse New Arrivals",

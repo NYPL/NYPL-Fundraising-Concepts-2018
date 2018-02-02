@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "69A94EAE-5A5E-491E-B821-264086A0835B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 75,
+    "x": 232,
+    "y": 22
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "buttons / main filter control",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5F67FA8A-F534-46E0-AC7E-A92C89B1259F_symbolID",
+      "value": "95010344-9931-4264-B9B2-29C63CEA47BC"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4D7D9E18-3EB2-44F8-9EB7-8139CE146E20_stringValue",
+      "value": "I will!"
+    }
+  ],
+  "overrides": {
+    "4D7D9E18-3EB2-44F8-9EB7-8139CE146E20": "I will!",
+    "5F67FA8A-F534-46E0-AC7E-A92C89B1259F": {
+      "symbolID": "95010344-9931-4264-B9B2-29C63CEA47BC"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "382E893F-7369-4D22-BE0B-D06777962A63",
+  "verticalSpacing": 0
+}
